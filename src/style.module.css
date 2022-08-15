@@ -2,3 +2,15 @@
     width: 10em;
     height: 2em;
 }
+
+.backcolor {
+    background-color: skyblue;
+    width: 100em;
+    height: 15em;
+}
+
+.backcolor2 {
+    background-color: darkseagreen;
+    width: 100em;
+    height: 15em;
+}
